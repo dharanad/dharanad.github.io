@@ -1,0 +1,4 @@
+baseURL = 'https://dharanad.github.io'
+languageCode = 'en-us'
+title = 'Dharan Aditya'
+theme = 'ananke'
